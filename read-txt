@@ -1,7 +1,17 @@
 Dear Elisa,
 
-I hope the midterm wasn't too extended. In the beginning I started with some basic data exploration to verify my data somewhat makes sense
+I hope the midterm wasn't too extended. In the beginning I started with some basic data exploration to verify my data somewhat makes sense. I kept it in Nevertheless that
+someone can understand my reasoning.
 After the plots I wasn't too sure about wheter or not the data is normally distributed. After thinking about it alot I decided to stick with the assumption that
 the data isn't normally distributed.
 I know we didn't cover Anova but it made sense to use it here IMO.
 
+For the plots I was contemplating alot wheter or not it made sense to use different markers and linestyles. What I wanted to especially highlight is that the gap
+during ww1 is perfectly distinguishable between all countries and hence the rather colorful spectrum.
+
+
+For the pyramid distributions I followed a medium article: 
+https://maciejtarsa.medium.com/plotting-a-population-pyramid-in-python-52be034968b0
+
+Kind Regrads
+Thomas
